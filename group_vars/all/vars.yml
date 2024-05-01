@@ -1,0 +1,8 @@
+username: hermione
+packages:
+    - vim
+    - htop
+    - tmux
+    - neofetch
+    - speedtest-cli
+    - openssh-client
